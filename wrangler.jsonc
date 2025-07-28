@@ -1,0 +1,7 @@
+{
+  "name": "worker-build",
+  "compatibility_date": "2025-07-28",
+  "assets": {
+    "directory": "./dist"
+  }
+}
